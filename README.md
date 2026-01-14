@@ -1,6 +1,10 @@
-Day 18 of my 45 Days Coding Challenge
-Project Name: The Vintage Ledger
-Description
+###Day 18 of my 45 Days Coding Challenge
+
+
+###Project Name: The Vintage Ledger
+
+
+###Description
 The Vintage Ledger is a unique web application designed to simulate a classic, old-school digital archive. What sets this project apart is its primary focus on auditory interaction. The application is built around an immersive Voice Notification feature that acts as the main feedback mechanism for the user. Every significant action within the terminal is accompanied by a specific robotic voice confirmation, creating a vintage mainframe experience. This combines with a retro visual aesthetic to create a completely immersive environment.
 
 Key Features
